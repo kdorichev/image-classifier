@@ -1,7 +1,7 @@
 Image_classifier
 ==============================
 
-This project is my own attempt to automate the process of diagnosis by building an image classifier based on a residual neural network. Properly trained, it may significantly improve the quality of the diagnosis and automate the process thus freeing the humans for other tasks.
+This project is my attempt to automate the process of malaria diagnosis by building an image classifier based on a residual neural network. Properly trained, it may significantly improve the quality of the malaria diagnosis and automate the process thus freeing the humans for other tasks.
 
 An image classifier is build with ResNet models using fast.ai library.
 
